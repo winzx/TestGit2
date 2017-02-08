@@ -9,6 +9,6 @@ void Bob()
 int main()
 {
     cout << "Hello, World!" <<endl;
-    Bon();
+    Bob();
     return 0;
 }
